@@ -54,7 +54,7 @@ pip install pandas numpy scikit-learn matplotlib
 ## Running the Project
 1. Clone the repository:
    ```bash
-   git clone <your-repo-link>
+   git clone <https://github.com/Abhinav-kotha/APR_Assignment1/tree/main>
    cd anime-svm-classifier
    ```
 2. Place the dataset file (`anime.csv`) in the project folder.
